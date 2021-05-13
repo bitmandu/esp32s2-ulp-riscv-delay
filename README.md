@@ -30,6 +30,6 @@ encouraged!
 
 
 [1]: https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/api-guides/ulp-risc-v.html
-[2]: https://esp32.com/
-[issues]: https://github.com/bitmandu/esp32s2-ulp-riscv-delay.git/issues
-[pulls]: https://github.com/bitmandu/esp32s2-ulp-riscv-delay.git/pulls
+[2]: https://esp32.com/viewtopic.php?f=2&t=20919
+[issues]: https://github.com/bitmandu/esp32s2-ulp-riscv-delay/issues
+[pulls]: https://github.com/bitmandu/esp32s2-ulp-riscv-delay/pulls
